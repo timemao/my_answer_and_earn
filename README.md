@@ -4,7 +4,7 @@
 ---
 #1.chrome浏览器插件vysor将Android手机画面同步到电脑;
 工具:chrome's vysor\
-流程:安装插件-打开插件-打开Android开发者选项usb调试-done\<
+流程:安装插件-打开插件-打开Android开发者选项usb调试-done\
 #2.ocr识别特定位置矩形框里的题目及选项;
 工具:pyautogui;pyscreenshot;pytesseract-ocr(chi_sim+eng模式);\
 流程:\
