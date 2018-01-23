@@ -2,12 +2,12 @@
 ==
 一.思路
 ---
->1.chrome浏览器插件vysor将Android手机画面同步到电脑;\
->>工具:chrome's vysor\
->>流程:安装插件-打开插件-打开Android开发者选项usb调试-done\
->2.ocr识别特定位置矩形框里的题目及选项;\
-工具:pyautogui;pyscreenshot;pytesseract-ocr(chi_sim+eng模式);\
-流程:\
+1.chrome浏览器插件vysor将Android手机画面同步到电脑;\
+>工具:chrome's vysor\
+>流程:安装插件-打开插件-打开Android开发者选项usb调试-done\
+2.ocr识别特定位置矩形框里的题目及选项;\
+>工具:pyautogui;pyscreenshot;pytesseract-ocr(chi_sim+eng模式);\
+>流程:\
 (1).pyautogui确定矩形框\
 (2).pyscreenshot抓取屏幕特定框,抓屏时间与所抓屏幕大小关系不是很大\
 (3).pytesseract识别文字,识别速度效率和图像中文字的多少有关\
