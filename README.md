@@ -1,4 +1,5 @@
 最近很火的答题Python搜索:
+
 一.思路
 1.chrome浏览器插件vysor将Android手机画面同步到电脑;
 工具:chrome's vysor
